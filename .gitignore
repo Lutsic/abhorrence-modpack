@@ -1,0 +1,15 @@
+game_files/mods/*
+game_files/defaultconfigs/*
+game_files/logs/*
+game_files/resourcepacks/*
+game_files/screenshots/*
+game_files/shaderpacks/*
+game_files/config/*
+game_files/saves/*
+
+game_files/usernamecache.json
+game_files/usercache.json
+game_files/icon.png
+game_files/options.txt
+
+!game_files/mods/lazydfu-0.1.3.jar

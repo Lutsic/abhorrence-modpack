@@ -1,0 +1,58 @@
+{
+    "mods": [
+        {
+            "name": "Clumps",
+            "version": "6.0.0.28",
+            "filename": "Clumps-6.0.0.28.jar",
+            "url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/UutzgwbZ/Clumps-6.0.0.28.jar?mr_download_reason=standalone&mr_game_version=1.16.5&mr_loader=forge"
+        },
+        {
+            "name": "Entity Culling",
+            "version": "mc1.16.5-1.5.2",
+            "filename": "entityculling-forge-mc1.16.5-1.5.2.jar",
+            "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/1.5.2-forge-1.16/entityculling-forge-mc1.16.5-1.5.2.jar?mr_download_reason=standalone&mr_game_version=1.16.5&mr_loader=forge"
+        },
+        {
+            "name": "Oculus",
+            "version": "mc1.16.5-1.4.8",
+            "filename": "oculus-mc1.16.5-1.4.8.jar",
+            "url": "https://cdn.modrinth.com/data/GchcoXML/versions/SPCLqJn1/oculus-mc1.16.5-1.4.8.jar?mr_download_reason=standalone&mr_game_version=1.16.5&mr_loader=forge"
+        },
+        {
+            "name": "FerriteCore",
+            "version": "2.1.1",
+            "filename": "ferritecore-2.1.1-forge.jar",
+            "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/6gwDuh90/ferritecore-2.1.1-forge.jar?mr_download_reason=standalone&mr_game_version=1.16.5&mr_loader=forge"
+        },
+        {
+            "name": "ModernFix",
+            "version": "forge-5.18.0+mc1.16.5",
+            "filename": "modernfix-forge-5.18.0+mc1.16.5.jar",
+            "url": "https://cdn.modrinth.com/data/nmDcB62a/versions/Cc0b1kXl/modernfix-forge-5.18.0%2Bmc1.16.5.jar?mr_download_reason=standalone&mr_game_version=1.16.5&mr_loader=forge"
+        },
+        {
+            "name": "Embeddium",
+            "version": "0.3.18+mc1.16.5",
+            "filename": "embeddium-0.3.18+mc1.16.5.jar",
+            "url": "https://cdn.modrinth.com/data/sk9rgfiA/versions/9PbX7IEh/embeddium-0.3.18%2Bmc1.16.5.jar?mr_download_reason=standalone&mr_game_version=1.16.5&mr_loader=forge"
+        },
+        {
+            "name": "Just Enough Items (JEI)",
+            "version": "1.16.5-7.8.1.1019",
+            "filename": "jei-1.16.5-7.8.1.1019.jar",
+            "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/cdOvD10v/jei-1.16.5-7.8.1.1019.jar?mr_download_reason=standalone&mr_game_version=1.16.5&mr_loader=forge"
+        },
+        {
+            "name": "Mouse Tweaks",
+            "version": "2.14-mc1.16.2",
+            "filename": "MouseTweaks-2.14-mc1.16.2.jar",
+            "url": "https://cdn.modrinth.com/data/aC3cM3Vq/versions/2.14/MouseTweaks-2.14-mc1.16.2.jar?mr_download_reason=standalone&mr_game_version=1.16.5"
+        },
+        {
+            "name": "Controlling",
+            "version": "7.0.0.29",
+            "filename": "Controlling-7.0.0.29.jar",
+            "url": "https://cdn.modrinth.com/data/xv94TkTM/versions/Z7UMwzSN/Controlling-7.0.0.29.jar?mr_download_reason=standalone&mr_game_version=1.16.5&mr_loader=forge"
+        }
+    ]
+}
